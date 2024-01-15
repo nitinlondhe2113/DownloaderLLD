@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DownloaderLLD"
 include(":app")
- 
+include(":library")
